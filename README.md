@@ -1,4 +1,4 @@
-#VedGrow_ML_O2 - 🏠 House Price Prediction using Machine Learning
+# VedGrow_ML_O2 - 🏠 House Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 This project predicts house sale prices using the Ames Housing dataset. It includes complete data preprocessing, feature engineering, model training, evaluation, and visualization. Multiple regression algorithms are compared to identify the best-performing model.
